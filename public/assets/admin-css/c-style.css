@@ -1,0 +1,25 @@
+.dashboard-page .analytics-info .list-inline li span {
+    font-size: 17px !important;
+}
+
+.dashboard-page .white-box.analytics-info {
+    padding: 10px 25px !important;
+}
+
+.admin-logo{
+	max-width: 86px;
+	float: left;
+	margin-top: -3px;
+	margin-bottom: 5px;
+	margin-left: 18px;
+}
+.wave-font{
+	font-size: 25px;
+}
+
+#btn-check-empty {
+	position: fixed;
+    top: 155px;
+    right: 25px;
+    z-index: 10;
+}
